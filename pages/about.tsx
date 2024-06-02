@@ -2,7 +2,7 @@
 import { NextPage } from 'next';
 import Head from 'next/head';
 
-const Index: NextPage = () => {
+const About: NextPage = () => {
   return (
     <div>
       <Head>
@@ -17,4 +17,4 @@ const Index: NextPage = () => {
   );
 };
 
-export default Index;
+export default About;
